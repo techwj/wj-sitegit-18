@@ -1,0 +1,852 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-beginner-autumn-winter-warm-drinks",
+      "title": "The Ultimate Guide to Beginner Autumn Winter Warm Drinks",
+      "category": "beginner-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.804506",
+      "image": {
+        "id": "78e192d9faa53ef4ab248a9c89db379c4b41d3b524bb4d0f647351973738301e",
+        "url": "https://picsum.photos/1102/511?random=802",
+        "alt": "Featured image for: The Ultimate Guide to Beginner Autumn Winter Warm Drinks",
+        "width": 1102,
+        "height": 511
+      }
+    },
+    {
+      "id": 2,
+      "slug": "beginner-autumn-winter-warm-drinks-everything-you-need-to-know",
+      "title": "Beginner Autumn Winter Warm Drinks: Everything You Need to Know",
+      "category": "beginner-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.804566",
+      "image": {
+        "id": "0257d0cf4bc91b0631edbbb86d797f067cbbe9cf6037efaa91f76cebe3421735",
+        "url": "https://picsum.photos/1131/437?random=377",
+        "alt": "Featured image for: Beginner Autumn Winter Warm Drinks: Everything You Need to Know",
+        "width": 1131,
+        "height": 437
+      }
+    },
+    {
+      "id": 3,
+      "slug": "understanding-beginner-autumn-winter-warm-drinks",
+      "title": "Understanding Beginner Autumn Winter Warm Drinks",
+      "category": "beginner-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.804603",
+      "image": {
+        "id": "b11933b2fe856f2c970b53ee6e4bf339b7b3ec1b4fd72035e886de6264d42078",
+        "url": "https://picsum.photos/1148/509?random=709",
+        "alt": "Featured image for: Understanding Beginner Autumn Winter Warm Drinks",
+        "width": 1148,
+        "height": 509
+      }
+    },
+    {
+      "id": 4,
+      "slug": "beginner-autumn-winter-warm-drinks-tips-and-best-practices",
+      "title": "Beginner Autumn Winter Warm Drinks Tips and Best Practices",
+      "category": "beginner-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.804636",
+      "image": {
+        "id": "2a1004805c104071c7046db40314b16acf4bd0672220d155527e6702e8753310",
+        "url": "https://picsum.photos/1151/600?random=529",
+        "alt": "Featured image for: Beginner Autumn Winter Warm Drinks Tips and Best Practices",
+        "width": 1151,
+        "height": 600
+      }
+    },
+    {
+      "id": 5,
+      "slug": "the-history-of-beginner-autumn-winter-warm-drinks",
+      "title": "The History of Beginner Autumn Winter Warm Drinks",
+      "category": "beginner-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.804670",
+      "image": {
+        "id": "eab747e8b6b5cae423431b5b71be6f9f122cb5ddad2822090e81cced35aa9d79",
+        "url": "https://picsum.photos/897/535?random=682",
+        "alt": "Featured image for: The History of Beginner Autumn Winter Warm Drinks",
+        "width": 897,
+        "height": 535
+      }
+    },
+    {
+      "id": 6,
+      "slug": "beginner-autumn-winter-warm-drinks-in-2026-current-trends",
+      "title": "Beginner Autumn Winter Warm Drinks in 2026: Current Trends",
+      "category": "beginner-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.804703",
+      "image": {
+        "id": "eab747e8b6b5cae423431b5b71be6f9f122cb5ddad2822090e81cced35aa9d79",
+        "url": "https://picsum.photos/897/535?random=682",
+        "alt": "Featured image for: Beginner Autumn Winter Warm Drinks in 2026: Current Trends",
+        "width": 897,
+        "height": 535
+      }
+    },
+    {
+      "id": 7,
+      "slug": "future-of-beginner-autumn-winter-warm-drinks",
+      "title": "Future of Beginner Autumn Winter Warm Drinks",
+      "category": "beginner-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.804735",
+      "image": {
+        "id": "0257d0cf4bc91b0631edbbb86d797f067cbbe9cf6037efaa91f76cebe3421735",
+        "url": "https://picsum.photos/1131/437?random=377",
+        "alt": "Featured image for: Future of Beginner Autumn Winter Warm Drinks",
+        "width": 1131,
+        "height": 437
+      }
+    },
+    {
+      "id": 8,
+      "slug": "common-mistakes-in-beginner-autumn-winter-warm-drinks",
+      "title": "Common Mistakes in Beginner Autumn Winter Warm Drinks",
+      "category": "beginner-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.804766",
+      "image": {
+        "id": "b11933b2fe856f2c970b53ee6e4bf339b7b3ec1b4fd72035e886de6264d42078",
+        "url": "https://picsum.photos/1148/509?random=709",
+        "alt": "Featured image for: Common Mistakes in Beginner Autumn Winter Warm Drinks",
+        "width": 1148,
+        "height": 509
+      }
+    },
+    {
+      "id": 9,
+      "slug": "beginner-autumn-winter-warm-drinks-for-beginners",
+      "title": "Beginner Autumn Winter Warm Drinks for Beginners",
+      "category": "beginner-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.804799",
+      "image": {
+        "id": "78e192d9faa53ef4ab248a9c89db379c4b41d3b524bb4d0f647351973738301e",
+        "url": "https://picsum.photos/1102/511?random=802",
+        "alt": "Featured image for: Beginner Autumn Winter Warm Drinks for Beginners",
+        "width": 1102,
+        "height": 511
+      }
+    },
+    {
+      "id": 10,
+      "slug": "advanced-beginner-autumn-winter-warm-drinks-techniques",
+      "title": "Advanced Beginner Autumn Winter Warm Drinks Techniques",
+      "category": "beginner-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.804830",
+      "image": {
+        "id": "2a1004805c104071c7046db40314b16acf4bd0672220d155527e6702e8753310",
+        "url": "https://picsum.photos/1151/600?random=529",
+        "alt": "Featured image for: Advanced Beginner Autumn Winter Warm Drinks Techniques",
+        "width": 1151,
+        "height": 600
+      }
+    },
+    {
+      "id": 19,
+      "slug": "the-ultimate-guide-to-advanced-autumn-winter-warm-drinks",
+      "title": "The Ultimate Guide to Advanced Autumn Winter Warm Drinks",
+      "category": "advanced-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.805109",
+      "image": {
+        "id": "2a1004805c104071c7046db40314b16acf4bd0672220d155527e6702e8753310",
+        "url": "https://picsum.photos/1151/600?random=529",
+        "alt": "Featured image for: The Ultimate Guide to Advanced Autumn Winter Warm Drinks",
+        "width": 1151,
+        "height": 600
+      }
+    },
+    {
+      "id": 20,
+      "slug": "advanced-autumn-winter-warm-drinks-everything-you-need-to-know",
+      "title": "Advanced Autumn Winter Warm Drinks: Everything You Need to Know",
+      "category": "advanced-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.805139",
+      "image": {
+        "id": "0257d0cf4bc91b0631edbbb86d797f067cbbe9cf6037efaa91f76cebe3421735",
+        "url": "https://picsum.photos/1131/437?random=377",
+        "alt": "Featured image for: Advanced Autumn Winter Warm Drinks: Everything You Need to Know",
+        "width": 1131,
+        "height": 437
+      }
+    },
+    {
+      "id": 21,
+      "slug": "understanding-advanced-autumn-winter-warm-drinks",
+      "title": "Understanding Advanced Autumn Winter Warm Drinks",
+      "category": "advanced-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.805172",
+      "image": {
+        "id": "eab747e8b6b5cae423431b5b71be6f9f122cb5ddad2822090e81cced35aa9d79",
+        "url": "https://picsum.photos/897/535?random=682",
+        "alt": "Featured image for: Understanding Advanced Autumn Winter Warm Drinks",
+        "width": 897,
+        "height": 535
+      }
+    },
+    {
+      "id": 22,
+      "slug": "advanced-autumn-winter-warm-drinks-tips-and-best-practices",
+      "title": "Advanced Autumn Winter Warm Drinks Tips and Best Practices",
+      "category": "advanced-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.805204",
+      "image": {
+        "id": "b11933b2fe856f2c970b53ee6e4bf339b7b3ec1b4fd72035e886de6264d42078",
+        "url": "https://picsum.photos/1148/509?random=709",
+        "alt": "Featured image for: Advanced Autumn Winter Warm Drinks Tips and Best Practices",
+        "width": 1148,
+        "height": 509
+      }
+    },
+    {
+      "id": 23,
+      "slug": "the-history-of-advanced-autumn-winter-warm-drinks",
+      "title": "The History of Advanced Autumn Winter Warm Drinks",
+      "category": "advanced-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.805235",
+      "image": {
+        "id": "0257d0cf4bc91b0631edbbb86d797f067cbbe9cf6037efaa91f76cebe3421735",
+        "url": "https://picsum.photos/1131/437?random=377",
+        "alt": "Featured image for: The History of Advanced Autumn Winter Warm Drinks",
+        "width": 1131,
+        "height": 437
+      }
+    },
+    {
+      "id": 24,
+      "slug": "advanced-autumn-winter-warm-drinks-in-2026-current-trends",
+      "title": "Advanced Autumn Winter Warm Drinks in 2026: Current Trends",
+      "category": "advanced-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.805267",
+      "image": {
+        "id": "2a1004805c104071c7046db40314b16acf4bd0672220d155527e6702e8753310",
+        "url": "https://picsum.photos/1151/600?random=529",
+        "alt": "Featured image for: Advanced Autumn Winter Warm Drinks in 2026: Current Trends",
+        "width": 1151,
+        "height": 600
+      }
+    },
+    {
+      "id": 25,
+      "slug": "future-of-advanced-autumn-winter-warm-drinks",
+      "title": "Future of Advanced Autumn Winter Warm Drinks",
+      "category": "advanced-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.805297",
+      "image": {
+        "id": "eab747e8b6b5cae423431b5b71be6f9f122cb5ddad2822090e81cced35aa9d79",
+        "url": "https://picsum.photos/897/535?random=682",
+        "alt": "Featured image for: Future of Advanced Autumn Winter Warm Drinks",
+        "width": 897,
+        "height": 535
+      }
+    },
+    {
+      "id": 26,
+      "slug": "common-mistakes-in-advanced-autumn-winter-warm-drinks",
+      "title": "Common Mistakes in Advanced Autumn Winter Warm Drinks",
+      "category": "advanced-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.805327",
+      "image": {
+        "id": "eab747e8b6b5cae423431b5b71be6f9f122cb5ddad2822090e81cced35aa9d79",
+        "url": "https://picsum.photos/897/535?random=682",
+        "alt": "Featured image for: Common Mistakes in Advanced Autumn Winter Warm Drinks",
+        "width": 897,
+        "height": 535
+      }
+    },
+    {
+      "id": 27,
+      "slug": "advanced-autumn-winter-warm-drinks-for-beginners",
+      "title": "Advanced Autumn Winter Warm Drinks for Beginners",
+      "category": "advanced-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.805357",
+      "image": {
+        "id": "2a1004805c104071c7046db40314b16acf4bd0672220d155527e6702e8753310",
+        "url": "https://picsum.photos/1151/600?random=529",
+        "alt": "Featured image for: Advanced Autumn Winter Warm Drinks for Beginners",
+        "width": 1151,
+        "height": 600
+      }
+    },
+    {
+      "id": 28,
+      "slug": "advanced-advanced-autumn-winter-warm-drinks-techniques",
+      "title": "Advanced Advanced Autumn Winter Warm Drinks Techniques",
+      "category": "advanced-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.805387",
+      "image": {
+        "id": "0257d0cf4bc91b0631edbbb86d797f067cbbe9cf6037efaa91f76cebe3421735",
+        "url": "https://picsum.photos/1131/437?random=377",
+        "alt": "Featured image for: Advanced Advanced Autumn Winter Warm Drinks Techniques",
+        "width": 1131,
+        "height": 437
+      }
+    },
+    {
+      "id": 37,
+      "slug": "the-ultimate-guide-to-autumn-winter-warm-drinks-tips",
+      "title": "The Ultimate Guide to Autumn Winter Warm Drinks Tips",
+      "category": "tips-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.805656",
+      "image": {
+        "id": "2a1004805c104071c7046db40314b16acf4bd0672220d155527e6702e8753310",
+        "url": "https://picsum.photos/1151/600?random=529",
+        "alt": "Featured image for: The Ultimate Guide to Autumn Winter Warm Drinks Tips",
+        "width": 1151,
+        "height": 600
+      }
+    },
+    {
+      "id": 38,
+      "slug": "autumn-winter-warm-drinks-tips-everything-you-need-to-know",
+      "title": "Autumn Winter Warm Drinks Tips: Everything You Need to Know",
+      "category": "tips-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.805686",
+      "image": {
+        "id": "b11933b2fe856f2c970b53ee6e4bf339b7b3ec1b4fd72035e886de6264d42078",
+        "url": "https://picsum.photos/1148/509?random=709",
+        "alt": "Featured image for: Autumn Winter Warm Drinks Tips: Everything You Need to Know",
+        "width": 1148,
+        "height": 509
+      }
+    },
+    {
+      "id": 39,
+      "slug": "understanding-autumn-winter-warm-drinks-tips",
+      "title": "Understanding Autumn Winter Warm Drinks Tips",
+      "category": "tips-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.805716",
+      "image": {
+        "id": "2a1004805c104071c7046db40314b16acf4bd0672220d155527e6702e8753310",
+        "url": "https://picsum.photos/1151/600?random=529",
+        "alt": "Featured image for: Understanding Autumn Winter Warm Drinks Tips",
+        "width": 1151,
+        "height": 600
+      }
+    },
+    {
+      "id": 40,
+      "slug": "autumn-winter-warm-drinks-tips-tips-and-best-practices",
+      "title": "Autumn Winter Warm Drinks Tips Tips and Best Practices",
+      "category": "tips-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.805746",
+      "image": {
+        "id": "0257d0cf4bc91b0631edbbb86d797f067cbbe9cf6037efaa91f76cebe3421735",
+        "url": "https://picsum.photos/1131/437?random=377",
+        "alt": "Featured image for: Autumn Winter Warm Drinks Tips Tips and Best Practices",
+        "width": 1131,
+        "height": 437
+      }
+    },
+    {
+      "id": 41,
+      "slug": "the-history-of-autumn-winter-warm-drinks-tips",
+      "title": "The History of Autumn Winter Warm Drinks Tips",
+      "category": "tips-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.805778",
+      "image": {
+        "id": "0257d0cf4bc91b0631edbbb86d797f067cbbe9cf6037efaa91f76cebe3421735",
+        "url": "https://picsum.photos/1131/437?random=377",
+        "alt": "Featured image for: The History of Autumn Winter Warm Drinks Tips",
+        "width": 1131,
+        "height": 437
+      }
+    },
+    {
+      "id": 42,
+      "slug": "autumn-winter-warm-drinks-tips-in-2026-current-trends",
+      "title": "Autumn Winter Warm Drinks Tips in 2026: Current Trends",
+      "category": "tips-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.805810",
+      "image": {
+        "id": "0257d0cf4bc91b0631edbbb86d797f067cbbe9cf6037efaa91f76cebe3421735",
+        "url": "https://picsum.photos/1131/437?random=377",
+        "alt": "Featured image for: Autumn Winter Warm Drinks Tips in 2026: Current Trends",
+        "width": 1131,
+        "height": 437
+      }
+    },
+    {
+      "id": 43,
+      "slug": "future-of-autumn-winter-warm-drinks-tips",
+      "title": "Future of Autumn Winter Warm Drinks Tips",
+      "category": "tips-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.805840",
+      "image": {
+        "id": "78e192d9faa53ef4ab248a9c89db379c4b41d3b524bb4d0f647351973738301e",
+        "url": "https://picsum.photos/1102/511?random=802",
+        "alt": "Featured image for: Future of Autumn Winter Warm Drinks Tips",
+        "width": 1102,
+        "height": 511
+      }
+    },
+    {
+      "id": 44,
+      "slug": "common-mistakes-in-autumn-winter-warm-drinks-tips",
+      "title": "Common Mistakes in Autumn Winter Warm Drinks Tips",
+      "category": "tips-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.805871",
+      "image": {
+        "id": "0257d0cf4bc91b0631edbbb86d797f067cbbe9cf6037efaa91f76cebe3421735",
+        "url": "https://picsum.photos/1131/437?random=377",
+        "alt": "Featured image for: Common Mistakes in Autumn Winter Warm Drinks Tips",
+        "width": 1131,
+        "height": 437
+      }
+    },
+    {
+      "id": 45,
+      "slug": "autumn-winter-warm-drinks-tips-for-beginners",
+      "title": "Autumn Winter Warm Drinks Tips for Beginners",
+      "category": "tips-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.805902",
+      "image": {
+        "id": "eab747e8b6b5cae423431b5b71be6f9f122cb5ddad2822090e81cced35aa9d79",
+        "url": "https://picsum.photos/897/535?random=682",
+        "alt": "Featured image for: Autumn Winter Warm Drinks Tips for Beginners",
+        "width": 897,
+        "height": 535
+      }
+    },
+    {
+      "id": 46,
+      "slug": "advanced-autumn-winter-warm-drinks-tips-techniques",
+      "title": "Advanced Autumn Winter Warm Drinks Tips Techniques",
+      "category": "tips-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.805931",
+      "image": {
+        "id": "78e192d9faa53ef4ab248a9c89db379c4b41d3b524bb4d0f647351973738301e",
+        "url": "https://picsum.photos/1102/511?random=802",
+        "alt": "Featured image for: Advanced Autumn Winter Warm Drinks Tips Techniques",
+        "width": 1102,
+        "height": 511
+      }
+    },
+    {
+      "id": 55,
+      "slug": "the-ultimate-guide-to-autumn-winter-warm-drinks-history",
+      "title": "The Ultimate Guide to Autumn Winter Warm Drinks History",
+      "category": "history-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.806208",
+      "image": {
+        "id": "0257d0cf4bc91b0631edbbb86d797f067cbbe9cf6037efaa91f76cebe3421735",
+        "url": "https://picsum.photos/1131/437?random=377",
+        "alt": "Featured image for: The Ultimate Guide to Autumn Winter Warm Drinks History",
+        "width": 1131,
+        "height": 437
+      }
+    },
+    {
+      "id": 56,
+      "slug": "autumn-winter-warm-drinks-history-everything-you-need-to-know",
+      "title": "Autumn Winter Warm Drinks History: Everything You Need to Know",
+      "category": "history-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.806239",
+      "image": {
+        "id": "b11933b2fe856f2c970b53ee6e4bf339b7b3ec1b4fd72035e886de6264d42078",
+        "url": "https://picsum.photos/1148/509?random=709",
+        "alt": "Featured image for: Autumn Winter Warm Drinks History: Everything You Need to Know",
+        "width": 1148,
+        "height": 509
+      }
+    },
+    {
+      "id": 57,
+      "slug": "understanding-autumn-winter-warm-drinks-history",
+      "title": "Understanding Autumn Winter Warm Drinks History",
+      "category": "history-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.806271",
+      "image": {
+        "id": "b11933b2fe856f2c970b53ee6e4bf339b7b3ec1b4fd72035e886de6264d42078",
+        "url": "https://picsum.photos/1148/509?random=709",
+        "alt": "Featured image for: Understanding Autumn Winter Warm Drinks History",
+        "width": 1148,
+        "height": 509
+      }
+    },
+    {
+      "id": 58,
+      "slug": "autumn-winter-warm-drinks-history-tips-and-best-practices",
+      "title": "Autumn Winter Warm Drinks History Tips and Best Practices",
+      "category": "history-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.806301",
+      "image": {
+        "id": "78e192d9faa53ef4ab248a9c89db379c4b41d3b524bb4d0f647351973738301e",
+        "url": "https://picsum.photos/1102/511?random=802",
+        "alt": "Featured image for: Autumn Winter Warm Drinks History Tips and Best Practices",
+        "width": 1102,
+        "height": 511
+      }
+    },
+    {
+      "id": 59,
+      "slug": "the-history-of-autumn-winter-warm-drinks-history",
+      "title": "The History of Autumn Winter Warm Drinks History",
+      "category": "history-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.806331",
+      "image": {
+        "id": "2a1004805c104071c7046db40314b16acf4bd0672220d155527e6702e8753310",
+        "url": "https://picsum.photos/1151/600?random=529",
+        "alt": "Featured image for: The History of Autumn Winter Warm Drinks History",
+        "width": 1151,
+        "height": 600
+      }
+    },
+    {
+      "id": 60,
+      "slug": "autumn-winter-warm-drinks-history-in-2026-current-trends",
+      "title": "Autumn Winter Warm Drinks History in 2026: Current Trends",
+      "category": "history-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.806368",
+      "image": {
+        "id": "2a1004805c104071c7046db40314b16acf4bd0672220d155527e6702e8753310",
+        "url": "https://picsum.photos/1151/600?random=529",
+        "alt": "Featured image for: Autumn Winter Warm Drinks History in 2026: Current Trends",
+        "width": 1151,
+        "height": 600
+      }
+    },
+    {
+      "id": 61,
+      "slug": "future-of-autumn-winter-warm-drinks-history",
+      "title": "Future of Autumn Winter Warm Drinks History",
+      "category": "history-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.806399",
+      "image": {
+        "id": "b11933b2fe856f2c970b53ee6e4bf339b7b3ec1b4fd72035e886de6264d42078",
+        "url": "https://picsum.photos/1148/509?random=709",
+        "alt": "Featured image for: Future of Autumn Winter Warm Drinks History",
+        "width": 1148,
+        "height": 509
+      }
+    },
+    {
+      "id": 62,
+      "slug": "common-mistakes-in-autumn-winter-warm-drinks-history",
+      "title": "Common Mistakes in Autumn Winter Warm Drinks History",
+      "category": "history-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.806429",
+      "image": {
+        "id": "78e192d9faa53ef4ab248a9c89db379c4b41d3b524bb4d0f647351973738301e",
+        "url": "https://picsum.photos/1102/511?random=802",
+        "alt": "Featured image for: Common Mistakes in Autumn Winter Warm Drinks History",
+        "width": 1102,
+        "height": 511
+      }
+    },
+    {
+      "id": 63,
+      "slug": "autumn-winter-warm-drinks-history-for-beginners",
+      "title": "Autumn Winter Warm Drinks History for Beginners",
+      "category": "history-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.806459",
+      "image": {
+        "id": "2a1004805c104071c7046db40314b16acf4bd0672220d155527e6702e8753310",
+        "url": "https://picsum.photos/1151/600?random=529",
+        "alt": "Featured image for: Autumn Winter Warm Drinks History for Beginners",
+        "width": 1151,
+        "height": 600
+      }
+    },
+    {
+      "id": 64,
+      "slug": "advanced-autumn-winter-warm-drinks-history-techniques",
+      "title": "Advanced Autumn Winter Warm Drinks History Techniques",
+      "category": "history-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.806492",
+      "image": {
+        "id": "b11933b2fe856f2c970b53ee6e4bf339b7b3ec1b4fd72035e886de6264d42078",
+        "url": "https://picsum.photos/1148/509?random=709",
+        "alt": "Featured image for: Advanced Autumn Winter Warm Drinks History Techniques",
+        "width": 1148,
+        "height": 509
+      }
+    },
+    {
+      "id": 73,
+      "slug": "the-ultimate-guide-to-trending-autumn-winter-warm-drinks",
+      "title": "The Ultimate Guide to Trending Autumn Winter Warm Drinks",
+      "category": "trending-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.806764",
+      "image": {
+        "id": "eab747e8b6b5cae423431b5b71be6f9f122cb5ddad2822090e81cced35aa9d79",
+        "url": "https://picsum.photos/897/535?random=682",
+        "alt": "Featured image for: The Ultimate Guide to Trending Autumn Winter Warm Drinks",
+        "width": 897,
+        "height": 535
+      }
+    },
+    {
+      "id": 74,
+      "slug": "trending-autumn-winter-warm-drinks-everything-you-need-to-know",
+      "title": "Trending Autumn Winter Warm Drinks: Everything You Need to Know",
+      "category": "trending-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.806794",
+      "image": {
+        "id": "b11933b2fe856f2c970b53ee6e4bf339b7b3ec1b4fd72035e886de6264d42078",
+        "url": "https://picsum.photos/1148/509?random=709",
+        "alt": "Featured image for: Trending Autumn Winter Warm Drinks: Everything You Need to Know",
+        "width": 1148,
+        "height": 509
+      }
+    },
+    {
+      "id": 75,
+      "slug": "understanding-trending-autumn-winter-warm-drinks",
+      "title": "Understanding Trending Autumn Winter Warm Drinks",
+      "category": "trending-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.806824",
+      "image": {
+        "id": "2a1004805c104071c7046db40314b16acf4bd0672220d155527e6702e8753310",
+        "url": "https://picsum.photos/1151/600?random=529",
+        "alt": "Featured image for: Understanding Trending Autumn Winter Warm Drinks",
+        "width": 1151,
+        "height": 600
+      }
+    },
+    {
+      "id": 76,
+      "slug": "trending-autumn-winter-warm-drinks-tips-and-best-practices",
+      "title": "Trending Autumn Winter Warm Drinks Tips and Best Practices",
+      "category": "trending-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.806854",
+      "image": {
+        "id": "eab747e8b6b5cae423431b5b71be6f9f122cb5ddad2822090e81cced35aa9d79",
+        "url": "https://picsum.photos/897/535?random=682",
+        "alt": "Featured image for: Trending Autumn Winter Warm Drinks Tips and Best Practices",
+        "width": 897,
+        "height": 535
+      }
+    },
+    {
+      "id": 77,
+      "slug": "the-history-of-trending-autumn-winter-warm-drinks",
+      "title": "The History of Trending Autumn Winter Warm Drinks",
+      "category": "trending-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.806885",
+      "image": {
+        "id": "2a1004805c104071c7046db40314b16acf4bd0672220d155527e6702e8753310",
+        "url": "https://picsum.photos/1151/600?random=529",
+        "alt": "Featured image for: The History of Trending Autumn Winter Warm Drinks",
+        "width": 1151,
+        "height": 600
+      }
+    },
+    {
+      "id": 78,
+      "slug": "trending-autumn-winter-warm-drinks-in-2026-current-trends",
+      "title": "Trending Autumn Winter Warm Drinks in 2026: Current Trends",
+      "category": "trending-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.806916",
+      "image": {
+        "id": "eab747e8b6b5cae423431b5b71be6f9f122cb5ddad2822090e81cced35aa9d79",
+        "url": "https://picsum.photos/897/535?random=682",
+        "alt": "Featured image for: Trending Autumn Winter Warm Drinks in 2026: Current Trends",
+        "width": 897,
+        "height": 535
+      }
+    },
+    {
+      "id": 79,
+      "slug": "future-of-trending-autumn-winter-warm-drinks",
+      "title": "Future of Trending Autumn Winter Warm Drinks",
+      "category": "trending-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.806946",
+      "image": {
+        "id": "b11933b2fe856f2c970b53ee6e4bf339b7b3ec1b4fd72035e886de6264d42078",
+        "url": "https://picsum.photos/1148/509?random=709",
+        "alt": "Featured image for: Future of Trending Autumn Winter Warm Drinks",
+        "width": 1148,
+        "height": 509
+      }
+    },
+    {
+      "id": 80,
+      "slug": "common-mistakes-in-trending-autumn-winter-warm-drinks",
+      "title": "Common Mistakes in Trending Autumn Winter Warm Drinks",
+      "category": "trending-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.806975",
+      "image": {
+        "id": "0257d0cf4bc91b0631edbbb86d797f067cbbe9cf6037efaa91f76cebe3421735",
+        "url": "https://picsum.photos/1131/437?random=377",
+        "alt": "Featured image for: Common Mistakes in Trending Autumn Winter Warm Drinks",
+        "width": 1131,
+        "height": 437
+      }
+    },
+    {
+      "id": 81,
+      "slug": "trending-autumn-winter-warm-drinks-for-beginners",
+      "title": "Trending Autumn Winter Warm Drinks for Beginners",
+      "category": "trending-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.807006",
+      "image": {
+        "id": "2a1004805c104071c7046db40314b16acf4bd0672220d155527e6702e8753310",
+        "url": "https://picsum.photos/1151/600?random=529",
+        "alt": "Featured image for: Trending Autumn Winter Warm Drinks for Beginners",
+        "width": 1151,
+        "height": 600
+      }
+    },
+    {
+      "id": 82,
+      "slug": "advanced-trending-autumn-winter-warm-drinks-techniques",
+      "title": "Advanced Trending Autumn Winter Warm Drinks Techniques",
+      "category": "trending-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.807036",
+      "image": {
+        "id": "b11933b2fe856f2c970b53ee6e4bf339b7b3ec1b4fd72035e886de6264d42078",
+        "url": "https://picsum.photos/1148/509?random=709",
+        "alt": "Featured image for: Advanced Trending Autumn Winter Warm Drinks Techniques",
+        "width": 1148,
+        "height": 509
+      }
+    },
+    {
+      "id": 91,
+      "slug": "the-ultimate-guide-to-autumn-winter-warm-drinks-tutorials",
+      "title": "The Ultimate Guide to Autumn Winter Warm Drinks Tutorials",
+      "category": "tutorials-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.807310",
+      "image": {
+        "id": "0257d0cf4bc91b0631edbbb86d797f067cbbe9cf6037efaa91f76cebe3421735",
+        "url": "https://picsum.photos/1131/437?random=377",
+        "alt": "Featured image for: The Ultimate Guide to Autumn Winter Warm Drinks Tutorials",
+        "width": 1131,
+        "height": 437
+      }
+    },
+    {
+      "id": 92,
+      "slug": "autumn-winter-warm-drinks-tutorials-everything-you-need-to-know",
+      "title": "Autumn Winter Warm Drinks Tutorials: Everything You Need to Know",
+      "category": "tutorials-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.807341",
+      "image": {
+        "id": "78e192d9faa53ef4ab248a9c89db379c4b41d3b524bb4d0f647351973738301e",
+        "url": "https://picsum.photos/1102/511?random=802",
+        "alt": "Featured image for: Autumn Winter Warm Drinks Tutorials: Everything You Need to Know",
+        "width": 1102,
+        "height": 511
+      }
+    },
+    {
+      "id": 93,
+      "slug": "understanding-autumn-winter-warm-drinks-tutorials",
+      "title": "Understanding Autumn Winter Warm Drinks Tutorials",
+      "category": "tutorials-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.807373",
+      "image": {
+        "id": "2a1004805c104071c7046db40314b16acf4bd0672220d155527e6702e8753310",
+        "url": "https://picsum.photos/1151/600?random=529",
+        "alt": "Featured image for: Understanding Autumn Winter Warm Drinks Tutorials",
+        "width": 1151,
+        "height": 600
+      }
+    },
+    {
+      "id": 94,
+      "slug": "autumn-winter-warm-drinks-tutorials-tips-and-best-practices",
+      "title": "Autumn Winter Warm Drinks Tutorials Tips and Best Practices",
+      "category": "tutorials-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.807404",
+      "image": {
+        "id": "2a1004805c104071c7046db40314b16acf4bd0672220d155527e6702e8753310",
+        "url": "https://picsum.photos/1151/600?random=529",
+        "alt": "Featured image for: Autumn Winter Warm Drinks Tutorials Tips and Best Practices",
+        "width": 1151,
+        "height": 600
+      }
+    },
+    {
+      "id": 95,
+      "slug": "the-history-of-autumn-winter-warm-drinks-tutorials",
+      "title": "The History of Autumn Winter Warm Drinks Tutorials",
+      "category": "tutorials-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.807434",
+      "image": {
+        "id": "78e192d9faa53ef4ab248a9c89db379c4b41d3b524bb4d0f647351973738301e",
+        "url": "https://picsum.photos/1102/511?random=802",
+        "alt": "Featured image for: The History of Autumn Winter Warm Drinks Tutorials",
+        "width": 1102,
+        "height": 511
+      }
+    },
+    {
+      "id": 96,
+      "slug": "autumn-winter-warm-drinks-tutorials-in-2026-current-trends",
+      "title": "Autumn Winter Warm Drinks Tutorials in 2026: Current Trends",
+      "category": "tutorials-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.807464",
+      "image": {
+        "id": "0257d0cf4bc91b0631edbbb86d797f067cbbe9cf6037efaa91f76cebe3421735",
+        "url": "https://picsum.photos/1131/437?random=377",
+        "alt": "Featured image for: Autumn Winter Warm Drinks Tutorials in 2026: Current Trends",
+        "width": 1131,
+        "height": 437
+      }
+    },
+    {
+      "id": 97,
+      "slug": "future-of-autumn-winter-warm-drinks-tutorials",
+      "title": "Future of Autumn Winter Warm Drinks Tutorials",
+      "category": "tutorials-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.807495",
+      "image": {
+        "id": "78e192d9faa53ef4ab248a9c89db379c4b41d3b524bb4d0f647351973738301e",
+        "url": "https://picsum.photos/1102/511?random=802",
+        "alt": "Featured image for: Future of Autumn Winter Warm Drinks Tutorials",
+        "width": 1102,
+        "height": 511
+      }
+    },
+    {
+      "id": 98,
+      "slug": "common-mistakes-in-autumn-winter-warm-drinks-tutorials",
+      "title": "Common Mistakes in Autumn Winter Warm Drinks Tutorials",
+      "category": "tutorials-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.807525",
+      "image": {
+        "id": "78e192d9faa53ef4ab248a9c89db379c4b41d3b524bb4d0f647351973738301e",
+        "url": "https://picsum.photos/1102/511?random=802",
+        "alt": "Featured image for: Common Mistakes in Autumn Winter Warm Drinks Tutorials",
+        "width": 1102,
+        "height": 511
+      }
+    },
+    {
+      "id": 99,
+      "slug": "autumn-winter-warm-drinks-tutorials-for-beginners",
+      "title": "Autumn Winter Warm Drinks Tutorials for Beginners",
+      "category": "tutorials-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.807555",
+      "image": {
+        "id": "78e192d9faa53ef4ab248a9c89db379c4b41d3b524bb4d0f647351973738301e",
+        "url": "https://picsum.photos/1102/511?random=802",
+        "alt": "Featured image for: Autumn Winter Warm Drinks Tutorials for Beginners",
+        "width": 1102,
+        "height": 511
+      }
+    },
+    {
+      "id": 100,
+      "slug": "advanced-autumn-winter-warm-drinks-tutorials-techniques",
+      "title": "Advanced Autumn Winter Warm Drinks Tutorials Techniques",
+      "category": "tutorials-autumn-winter-warm-drinks",
+      "created_at": "2026-06-02T15:35:11.807584",
+      "image": {
+        "id": "b11933b2fe856f2c970b53ee6e4bf339b7b3ec1b4fd72035e886de6264d42078",
+        "url": "https://picsum.photos/1148/509?random=709",
+        "alt": "Featured image for: Advanced Autumn Winter Warm Drinks Tutorials Techniques",
+        "width": 1148,
+        "height": 509
+      }
+    }
+  ],
+  "categories": [
+    "beginner-autumn-winter-warm-drinks",
+    "advanced-autumn-winter-warm-drinks",
+    "tips-autumn-winter-warm-drinks",
+    "history-autumn-winter-warm-drinks",
+    "trending-autumn-winter-warm-drinks",
+    "tutorials-autumn-winter-warm-drinks"
+  ]
+}

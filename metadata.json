@@ -1,0 +1,59 @@
+{
+  "siteId": "autumn-winter-warm-drinks",
+  "generatedAt": "2026-06-02T15:35:11.848166",
+  "categories": [
+    "beginner-autumn-winter-warm-drinks",
+    "advanced-autumn-winter-warm-drinks",
+    "tips-autumn-winter-warm-drinks",
+    "history-autumn-winter-warm-drinks",
+    "trending-autumn-winter-warm-drinks",
+    "tutorials-autumn-winter-warm-drinks"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-autumn-winter-warm-drinks",
+      "category_name": "Beginner Autumn Winter Warm Drinks"
+    },
+    {
+      "category_slug": "advanced-autumn-winter-warm-drinks",
+      "category_name": "Advanced Autumn Winter Warm Drinks"
+    },
+    {
+      "category_slug": "tips-autumn-winter-warm-drinks",
+      "category_name": "Autumn Winter Warm Drinks Tips"
+    },
+    {
+      "category_slug": "history-autumn-winter-warm-drinks",
+      "category_name": "Autumn Winter Warm Drinks History"
+    },
+    {
+      "category_slug": "trending-autumn-winter-warm-drinks",
+      "category_name": "Trending Autumn Winter Warm Drinks"
+    },
+    {
+      "category_slug": "tutorials-autumn-winter-warm-drinks",
+      "category_name": "Autumn Winter Warm Drinks Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "autumn-winter-warm-drinks",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "Autumn Winter Warm Drinks Central",
+    "articles_per_row": 2
+  }
+}
